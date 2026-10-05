@@ -1,0 +1,213 @@
+[
+  {
+    "id": 1,
+    "question": "¿Cómo es tu sábado ideal?",
+    "options": [
+      "Mi sábado ideal es salir de joda hasta el amanecer",
+      "Mi sábado ideal es quedarme en casa con mi novi@ mirando series y pidiendo comida",
+      "Mi sábado ideal es juntarme a tomar mates y charlar tranquilo en un parque",
+      "Mi sábado ideal es hacer algún deporte o actividad física intensa",
+      "Mi sábado ideal es quedarme jugando a los jueguitos"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "En un grupo de amigos vos sos:",
+    "options": [
+      "En mi grupo soy el que organiza absolutamente todo",
+      "En mi grupo soy el que vive tirando chistes",
+      "En mi grupo soy el que no falta nunca",
+      "En mi grupo soy el que da vueltas hasta el final",
+      "En mi grupo soy el que llega siempre tarde"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Mi estación favorita es:",
+    "options": [
+      "Mi estación favorita es el verano, amo el calor, la playa, el sol y el alcohol bien frío",
+      "Mi estación favorita es el invierno, prefiero el frío y estar bien abrigado",
+      "Mi estación favorita es la primavera, disfruto los días lindos preferentemente ni frío ni calor",
+      "Mi estación favorita es el otoño (no elijas esta opción, a quién le gusta el otoño?)"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Si tengo que poner música elijo:",
+    "options": [
+      "Si tengo que poner música elijo reguetón chill como Feid o Mora",
+      "Si tengo que poner música elijo rock nacional, los clásicos de siempre",
+      "Si tengo que poner música elijo tech o electrónica para entrar en ritmo",
+      "Si tengo que poner música elijo música en inglés",
+      "Si tengo que poner música elijo música inspiradora que me ponga alegre",
+      "Si tengo que poner música pongo cualquier cosa, ni idea de música",
+      "Si tengo que poner música elijo música moderna relacionada al acto carnal",
+      "Si tengo que poner música elijo rap, me gustan las letras y el flow"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Si gano 1 millón de dólares:",
+    "options": [
+      "Invierto todo de forma inteligente para trabajar lo menos posible",
+      "Me voy de viaje hasta gastarme el último centavo",
+      "Me compro un terrible auto y una terrible casa. Invierto el resto",
+      "Lo dono a una organización sin fines de lucro (No tengo ningún conocido que eligiría esta opción.)"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Si Gasti está en un problema y me manda un mensaje:",
+    "options": [
+      "Lo llamo al instante para ver qué pasó y resolverlo ya",
+      "Me hago el boludo y lo dejo sin leer",
+      "Le digo 'Uh que fiaca amigo mal ahí', pero me quedo en mi casita haciendo lo mío",
+      "Le pregunto que tan grave es y, proporcional a la gravedad actuo"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Mi deporte o actividad física favorita es:",
+    "options": [
+      "Mi deporte favorito es el fútbol, el mejor deporte de la historia",
+      "Mi deporte favorito es MMA o cualquier deporte de pelea",
+      "Mi deporte favorito es el básquet",
+      "Mi deporte favorito es el pádel"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Si tengo que elegir una peli para ver solo:",
+    "options": [
+      "Comedia porque me gusta reírme y pasarla bien sin pensar mucho",
+      "Elijo terror o suspenso que me mantenga tenso todo el tiempo",
+      "Elijo cualquier peli de amor o de chusmerío",
+      "Pongo cualquier peli y me pongo a scrollear el celular",
+      "No miro películas, generalmente no tengo tiempo o prefiero hacer otra cosa"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "¿Cuál es tu bebida alcoholica favorita?",
+    "options": [
+      "Mi bebida favorita es el Jagger, la mejor bebida de la historia",
+      "Mi bebida favorita es la cerveza, la fiel",
+      "Mi bebida favorita es el fernet, muy versátil",
+      "Mi bebida favorita es el Malibú, dulcecita y con poco alcohol",
+      "Mi bebida favorita es el vodkita, si tomo, tomo en serio yo pa",
+      "Mi bebida favorita es el vinito, lo tomo solo o con amigos"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "¿Qué relación tenés con las redes sociales?",
+    "options": [
+      "Soy completamente adicto, entro a ig, salgo voy a tt, salgo voy a jugar jueguitos",
+      "Miro mucho reels o tt, pero después no uso demasiado el celu",
+      "Soy tweetero y uso el notes para escribir música",
+      "Lo uso para mirar reels, pero me mandan un mensaje y lo contesto en una semana"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Si tuvieses que pelear mano a mano con Gasti:",
+    "options": [
+      "Lo arruino, sé muchas artes marciales, Gasti no tiene chance",
+      "Soy mucho más chic@ físicamente que él, no le puedo ganar",
+      "Si peleo con Gasti estaría parejo, cualquiera de los dos puede ganar",
+      "Si peleo con Gasti me apaga porque soy un inútil para pelear"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "¿Qué tan amigado estás con la tecnología?",
+    "options": [
+      "Soy muy tecnológico. Manejo los dispositivos fluidamente",
+      "Me doy maña con la tecnología, uso lo necesario para el día a día sin volverme loco",
+      "Soy bastante negado con la tecnología, me cuesta y prefiero las cosas simples",
+      "Me gusta meter mano, armar mis propias cosas, programar o jugar en la PC"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Comida favorita:",
+    "options": [
+      "Mi comida favorita es la hamburguesa",
+      "Mi comida favorita es el sushi",
+      "Mi comida favorita son las pastas",
+      "Mi comida favorita es el asado"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "¿Cómo definirías tu manera de vestir en el día a día?",
+    "options": [
+      "Me visto priorizando la comodidad total, mucho jogging o ropa deportiva",
+      "Me visto clásico, tirando a viejo, pero siempre arreglado",
+      "Estoy presentable sin exagerar, casual y cómodo",
+      "Tengo un estilo bastante propio y alternativo, diferente a lo estándar"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "¿Cómo reaccionás ante una discusión o conflicto?",
+    "options": [
+      "Soy de calentarme rápido y defender mi punto de vista a muerte",
+      "Digo que sí a todo, prefiero la paz",
+      "Intento llegar a un acuerdo, busco que ambos cedamos"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "¿Qué opinás de las mascotas?",
+    "options": [
+      "Soy totalmente team perros. Hay que desconfiar de las personas que tienen gatos",
+      "Soy team gatos, prefiero su independencia y tranquilidad",
+      "Me gustan los animales, todos, si pudiera mi casa sería Temaiken",
+      "Me gustan, pero los animales afuera"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Si tuviesen que intercambiar vidas con alguien por un día, elegiría a:",
+    "options": [
+      "Margot Robbie, hermosa, talentosa y con mucha personalidad",
+      "Leonardo DiCaprio, actor talentoso y con gran presencia",
+      "Lionel Andrés Messi, el mejor jugador de fútbol de la historia",
+      "Charles Oliveira, artista marcial mixto y gran carisma dentro de las MMA",
+      "Elon Musk, empresario y visionario, con mucho dinero y proyectos innovadores",
+      "Emilia Mernes, cantante y modelo con gran talento musical",
+      "Nadie, me gusta mi vida y no la cambiaría por la de nadie, ni siquiera por un día"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "¿Cómo te llevás con la cocina?",
+    "options": [
+      "Soy un desastre en la cocina, vivo a base de delivery o cosas congeladas",
+      "Me defiendo en la cocina, hago platos básicos y ricos para sobrevivir",
+      "Me gusta bastante cocinar y a veces experimento con recetas nuevas",
+      "Soy el chef designado, siempre cocino para los demás y me luzco"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Club de fútbol:",
+    "options": [
+      "Soy hincha de River Plate",
+      "Soy hincha de Boca Juniors",
+      "Soy hincha de Estudiantes de La Plata",
+      "Soy hincha de Gimnasia (WHO IS?)"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "¿Qué es lo que más valorás en una amistad?",
+    "options": [
+      "En una amistad valoro la lealtad incondicional, que esté en las malas",
+      "En una amistad valoro que me haga reír y pasarla increíble siempre",
+      "En una amistad valoro poder tener charlas profundas y de total confianza",
+      "En una amistad valoro que sea segundero y se prenda a todo"
+    ]
+  }
+]
